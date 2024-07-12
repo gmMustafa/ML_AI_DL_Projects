@@ -11,3 +11,7 @@ This project uses the California Housing dataset to predict housing prices based
 
 ### 3. Image Classification with CNNs (MNIST)
 This project uses the MNIST dataset to classify images of handwritten digits using Convolutional Neural Networks (CNNs).
+
+### 4.  Sentiment Analysis with LSTMs
+This project uses the IMDB dataset to analyze the sentiment of movie reviews (positive/negative) using Long Short-Term Memory (LSTM) networks.
+
